@@ -1,4 +1,4 @@
-# Hi there, I'm [Ismingiz] 👋
+# Hi there, I'm OTABEK ^_____^👋
 
 A passionate **Software Engineer** from Uzbekistan 🇺🇿 who loves building innovative web solutions and contributing to open-source software.
 
